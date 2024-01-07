@@ -1,7 +1,5 @@
-### Hi there 👋
-
-```bash
-$ whoami
+```console
+korbol77@korbol-desktop:~$ whoami
 <--- About Me --->
 Nickname: korbol77
 Country: Poland
