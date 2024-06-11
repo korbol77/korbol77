@@ -1,60 +1,51 @@
-<h2 align="center">Hi 👋! I'm korbol77 and I'm a 17yo beginner frontend developer, from Poland 🇵🇱.</h2>
+<h1 align="center">
+    Hi there! 
+    <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="" width="35" />
+</h1>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korbol77&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=korbol77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=true" height="135" alt="languages graph"  />
-</div>
+<p align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" alt="" width="50%">
+</p>
 
-###
+<br>
 
-<div align="center">
-  <img height="150" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1721.gif"  />
-</div>
+<h3>About me:</h3>
+<ul>
+    <li>
+        👋 I'm <b>korbol77</b> and I'm a <b>17 years old</b> beginner programmer
+    </li>
+    <li>
+        💫 My real name is <b>Maciek</b>
+    </li>
+    <li>
+        🇵🇱 I'm from <b>Poland</b>
+    </li>
+    <li>
+        🔥 I love <b>programming</b> and watching <b>TV series</b>
+    </li>
+    <li>
+        💻 I use <b>Windows</b> and <b>Linux</b> (my favorite DE is <b>KDE</b>)
+    </li>
+</ul>
 
-###
+<br>
+<hr>
 
-<h3 align="center">My Main Skills</h3>
+<h3 align="center">Skills</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py&perline=5">
+</p>
 
-###
+<h3 align="center">Others</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,arch,debian,git,mysql,vscode,visualstudio&perline=5">
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="37" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="37" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo"  />
-</div>
+<br>
 
-###
-
-<h3 align="center">Other Technologies</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="37" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="37" alt="php logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="37" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="37" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="37" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/korbol77/korbol77/output/snake.svg" alt="Snake animation" />
-
-###
+<h3 align="center">Learning</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=go,java,react,ts&perline=5">
+</p>
